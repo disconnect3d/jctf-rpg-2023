@@ -6,7 +6,10 @@ There are two challenges in this game:
 - Trial of Data - analyze the compiled game data in order to complete 5 challenges
 - Trial of Bugs - two challenges that require the player to find bugs with the game
 
-// TODO FIXME: include videos from game
+![Game showcase 1](out1.mp4)
+
+![Game showcase 2](out2.mp4)
+
 
 ## Hints
 
